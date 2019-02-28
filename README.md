@@ -3,7 +3,7 @@ This page summarises the work perfomed as a group and the indivuals.
 
 1) Introduction to project Antonia
 
-2) Introduction to FEV Model
+2) Introduction to FEV Model Jack
 
 3) Familarisation with FEV Model
 
@@ -11,7 +11,7 @@ This page summarises the work perfomed as a group and the indivuals.
 
  ii) Aire (quandrant plots, mitigation plan) Mary
 
- iii) Calder (quandrant plots, mitigation plan)
+ iii) Calder (quandrant plots, mitigation plan) Sophie
 
 6) Irwell
 
