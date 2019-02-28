@@ -9,9 +9,9 @@ This page summarises the work perfomed as a group and the indivuals.
 
  i) Don (quadrant plot, mitigation plan)
 
- i) Aire (quandrant plots, mitigation plan)
+ ii) Aire (quandrant plots, mitigation plan)
 
- i) Calder (quandrant plots, mitigation plan)
+ iii) Calder (quandrant plots, mitigation plan)
 
 6) Irwell
 
