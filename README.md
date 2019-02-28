@@ -24,6 +24,8 @@ https://github.com/Abbey-Chapman/River_Avon
 
 10) Thames
 
+https://github.com/Rivers-Project-2018/Sophie-River-Thames
+
 11) Conclusion
 -Comparison of Rivers
 -Further work needed 
