@@ -22,7 +22,9 @@ https://github.com/Abbey-Chapman/River_Avon
 
 9) Wharfe
 
-10) Conclusion
+10) Thames
+
+11) Conclusion
 -Comparison of Rivers
 -Further work needed 
 
