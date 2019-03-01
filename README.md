@@ -9,7 +9,7 @@ This page summarises the work perfomed as a group and the indivuals.
 
  i) Don (quadrant plot, mitigation plan) Abbey
  
- ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Abbey-Chapman/blob/master/Don-Quadrant_Graph.png)
+ ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
 
  ii) Aire (quandrant plots, mitigation plan) Mary
 
