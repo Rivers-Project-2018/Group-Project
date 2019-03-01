@@ -15,7 +15,7 @@ This page summarises the work perfomed as a group and the indivuals.
 
 6) Irwell
 
-7) Avon
+7) River Avon, Warwickshire
 
 https://github.com/Abbey-Chapman/River_Avon
 
