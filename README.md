@@ -11,9 +11,9 @@ This page summarises the work perfomed as a group and the indivuals.
  
  ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
 
-### ii) Aire (quandrant plots, mitigation plan) Mary
+### ii) River Aire, Leeds
 
-One of the floods we looked at was the Boxing Day flood of the River Aire in Leeds in 2015. Taking a threshold height of 3.9m above which flooding occured, we were able to produce the following quadrant plot using Python or R. This threshold height was estimated by Professor Bokhove by looking at photographs of the local area, along with their timestamps.
+One of the floods we looked at was the Boxing Day flood of the River Aire in Leeds in 2015, using data taken from the monitoring station at Armely by the Environment Agency. Taking a threshold height of 3.9m above which flooding occured, we were able to produce the following quadrant plot using Python or R. This threshold height was estimated by Professor Bokhove by looking at photographs of the local area, along with their timestamps.
 
 ![airepythongraph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airepythongraph.png)
 
@@ -27,7 +27,7 @@ This shows that 8% of the FEV would be mitigated by the floodplain, with the rem
 
 ### iii) Calder (quandrant plots, mitigation plan) Sophie
 
-## 6) Irwell
+## 6) River Irwell, Greater Manchester
 Work on the River Irwell can be found at the following link: https://github.com/Rivers-Project-2018/River-Irwell-Mary-Saunders.
 
 ## 7) River Avon, Warwickshire
