@@ -13,6 +13,9 @@ This page summarises the work perfomed as a group and the indivuals.
 
 ### ii) Aire (quandrant plots, mitigation plan) Mary
 
+![airepythongraph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airepythongraph.png)
+![airesquarelake1](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airesquarelake1.png)
+
 ### iii) Calder (quandrant plots, mitigation plan) Sophie
 
 ## 6) Irwell
