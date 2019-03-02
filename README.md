@@ -17,7 +17,7 @@ One of the floods we looked at was the Boxing Day flood of the River Aire in Lee
 
 ![airepythongraph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airepythongraph.png)
 
-The lower left quadrant the relationship between the river height and time, the upper right quadrant shows time against flow, and the upper left quadrant contains a rating curve with a linear approximation. The dashed lines indicate a threshold height $h_T$ and the mean height of the flood $h_M$, and their respective flow rates $Q_M$ and $Q_T$. Using these values we were able to calculate the FEV as $9.34$M$m^3$, with $T_f$ (the duration of the flood) being 32 hours.
+The lower left quadrant the relationship between the river height and time, the upper right quadrant shows time against flow, and the upper left quadrant contains a rating curve with a linear approximation. The dashed lines indicate a threshold height *h<sub>T</sub>* and the mean height of the flood *h<sub>M</sub>*, and their respective flow rates *Q<sub>M</sub>* and *Q<sub>T</sub>*. Using these values we were able to calculate the FEV as 9.34 Mm<sup>3</sup>, with *T<sub>f</sub>* (the duration of the flood) being 32 hours.
 
 ![airesquarelake1](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airesquarelake1.png)
 
