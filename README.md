@@ -21,6 +21,9 @@ In order to calculate the volume of water discharged during the flooding event (
  
 ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
 
+*Quadrant plot analysing the July 2007 flooding event in Sheffield*
+
+Because of the severity of this flood, the Sheffield City Council have investigated the implementation of various flood mitigation measures, with an emphasis on Natural Flood Mitigation measures, in particular flow attenuation features such as leaky dams. They are also looking into the possibility of drawing down various drinking water reservoirs that are already built along the River Don with the aim of increasing their floodwater storage potential. Further information on the study performed by the Sheffield City Council can be found in www.floodprotectionsheffield.com.
 
 ### ii) River Aire, Leeds
 
