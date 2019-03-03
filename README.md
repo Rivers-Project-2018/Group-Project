@@ -9,7 +9,7 @@ This page summarises the work perfomed as a group and the indivuals.
 
 ### i) The River Don, Sheffield
 
-Substantial flooding occured during the month of July, 2007 in the West Yorkshire city of Sheffield
+Substantial flooding occured during the month of July, 2007 in the West Yorkshire city of Sheffield. Below is a graph illustrating the behaviour of the River Dons height throughout the year 0f 2007, using height data gathered from the Sheffield Hadlands gauging station.
  
 ![Don-Long_Time_Graph.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png)
  
@@ -37,7 +37,7 @@ Work on the River Irwell can be found at the following link: https://github.com/
 
 ## 7) River Avon, Warwickshire
 
-https://github.com/Abbey-Chapman/River_Avon
+Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of the River Severn) can be found in the linked repository, https://github.com/Abbey-Chapman/River_Avon.
 
 ## 8) Ouse
 
