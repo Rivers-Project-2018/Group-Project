@@ -15,7 +15,9 @@ Substantial flooding occured early in the month of July, 2007, in the West Yorks
 
 *Height levels for the River Don in the Sheffield Hadlands throughout the year 2007.*
  
-It is therefore clear that the July 2007 flooding event was a rare event. Indeed, a height greater than 2m was only achieved at one other point for the entire year, and even then the height only reached around 3m whilst the flooding event in July 2007 achieved a maximum height nearing 5m.
+It is therefore clear that the July 2007 flooding event was a rare event. Indeed, a height greater than 2m was only achieved at one other point for the entire year, and even then the height only reached around 3m whilst the flooding event in July 2007 achieved a maximum height nearing 5m. This kind of flood is said to have a 1:200-year-return period; that is, a flood of this magnitude only occurs with 0.5% probability each year.
+
+In order to calculate the volume of water discharged during the flooding event (the FEV), the plotting of the below quadrant graph is necessary. The threshold height of 2.9m is chosen. This is because, whilst https://www.gaugemap.co.uk/ states that flooding is possible from 2.63m upwards, the supervisors of this project have had prior experience with the River Aire and Calder suggesting that this level is too low. Hence the threshold height is estimated to be 2.9m.
  
 ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
 
