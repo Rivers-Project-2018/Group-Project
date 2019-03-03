@@ -14,7 +14,7 @@ Substantial flooding occured during the month of July, 2007 in the West Yorkshir
 ![Don-Long_Time_Graph.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png)
 *Height levels for the River Don in the Sheffield Hadlands throughout the year 2007.*
  
- It is therefore clear that the July 2007 flooding event was a rare event, indeed the height only reached
+ It is therefore clear that the July 2007 flooding event was a rare event. Indeed, a height greater than 2m was only achieved at one other point for the entire year, 
  
 ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
 
