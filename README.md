@@ -41,6 +41,8 @@ This shows that 8% of the FEV would be mitigated by the floodplain, with the rem
 
 ### iii) River Calder
 
+![SophiesCalderRecreation.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/SophiesCalderRecreation.png)
+
 ![Sophies_FEV_mitigation_plot_recreation_for_Calder.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png)
 
 ## 6) River Irwell, Greater Manchester
