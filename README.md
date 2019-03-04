@@ -79,6 +79,18 @@ Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of th
 ## 8) River Ouse, York
 Analysis on the River Ouse in York for the flood events in 2000 and 2015 can be found in the following repository: https://github.com/Rivers-Project-2018/River_Ouse_Antonia
 ## 9) River Wharfe
+
+Below is the quadrant plot for the River Wharfe at Addingham, from the boxing day floods in 2015.
+
+![Addingham Quadrant Plot Final(1).png](https://github.com/Rivers-Project-2018/Jack-Willis/blob/master/Addingham%20Quadrant%20Plot%20Final%20(1).png)
+
+Currently there is a large flood alleviation programme taking place on the River Wharfe, with many mitigation schemes explored by the Leeds City Council. Some of these schemes for example are:
+
+![Screen Shot 2019-03-04 at 15.13.52.png](https://github.com/Rivers-Project-2018/Jack-Willis/blob/master/Screen%20Shot%202019-03-04%20at%2015.13.52.png)
+
+*Data collected by the Leeds City Council (https://www.leeds.gov.uk/docs/Otley%20FAS%20Drop%20In%20Material%20-%2021%20June%202018.pdf)*
+
+
 ## 10) Thames, Berkshire
 
 Analysis of the River Thames 2013-2014 flood can be found in the following repository: https://github.com/Rivers-Project-2018/Sophie-River-Thames .
