@@ -41,7 +41,9 @@ This shows that 8% of the FEV would be mitigated by the floodplain, with the rem
 
 ### iii) River Calder
 
-![SophiesCalderRecreation.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/SophiesCalderRecreation.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Rivers-Project-2018/Group-Project/SophiesCalderRecreation.png">
+</p>
 
 ![Sophies_FEV_mitigation_plot_recreation_for_Calder.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png)
 
