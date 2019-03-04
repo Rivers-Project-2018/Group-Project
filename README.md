@@ -9,7 +9,7 @@ In the north of the UK alone, 17,000 properties were affected by flooding in the
 
 In the UK, cities and local councils are often responsible for designing flood management plans with the support of regional divisions of goverment organisations such as the Environmental Agency. Evidence based decision making is needed inorder to optimise the limited resources available to local authorities. 
 
-## 2) Introduction to FEV Model Jack
+## 2) Introduction to FEV Model
 
 When planning flood mitigation, it is important to estimate the volume of water that the river will flood by, in order to see which flood alleviation schemes are most appropriate. We call this the flood excess volume (FEV). 
 
@@ -77,7 +77,8 @@ Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of th
 
 ## 8) River Ouse, York
 Analysis on the River Ouse in York for the flood events in 2000 and 2015 can be found in the following repository: https://github.com/Rivers-Project-2018/River_Ouse_Antonia
-## 9) River Wharfe
+
+## 9) River Wharfe, Addingham
 
 Below is the quadrant plot for the River Wharfe at Addingham, from the boxing day floods in 2015.
 
