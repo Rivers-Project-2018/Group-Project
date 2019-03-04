@@ -39,7 +39,8 @@ The Leeds Flood Alleviation Scheme was put into place to help avoid damage of th
 
 This shows that 8% of the FEV would be mitigated by the floodplain, with the remaining 92% by the city centre flood walls. It also shows the cost-effectiveness of the mitigation strategy - £0.75M per 1% of FEV mitigated, which includes £10M for the storage area, and £65M for the flood walls.
 
-### iii) Calder (quandrant plots, mitigation plan) Sophie
+### iii) River Calder
+
 
 ## 6) River Irwell, Greater Manchester
 Work on the River Irwell can be found at the following link: https://github.com/Rivers-Project-2018/River-Irwell-Mary-Saunders.
@@ -52,9 +53,9 @@ Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of th
 
 ## 9) Wharfe
 
-## 10) Thames
+## 10) Thames, Berkshire
 
-https://github.com/Rivers-Project-2018/Sophie-River-Thames
+Analysis of the River Thames 2013-2014 flood can be found in the following repository: https://github.com/Rivers-Project-2018/Sophie-River-Thames .
 
 ## 11) Conclusion
 -Comparison of Rivers
