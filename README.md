@@ -49,9 +49,10 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
-   <figcaption>Figure 6: Flood-excess lake for Calder</figcaption>
 </p>
-
+<p align="center">
+<figcaption>Figure 6: Flood-excess lake for Calder</figcaption>
+</p>
 ## 6) River Irwell, Greater Manchester
 Work on the River Irwell can be found at the following link: https://github.com/Rivers-Project-2018/River-Irwell-Mary-Saunders.
 
