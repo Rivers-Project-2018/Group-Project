@@ -76,10 +76,9 @@ Work on the River Irwell can be found at the following link: https://github.com/
 
 Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of the River Severn) can be found in the linked repository; https://github.com/Abbey-Chapman/River_Avon.
 
-## 8) Ouse
-
-## 9) Wharfe
-
+## 8) River Ouse, York
+Analysis on the River Ouse in York for the flood events in 2000 and 2015 can be found in the following repository: https://github.com/Rivers-Project-2018/River_Ouse_Antonia
+## 9) River Wharfe
 ## 10) Thames, Berkshire
 
 Analysis of the River Thames 2013-2014 flood can be found in the following repository: https://github.com/Rivers-Project-2018/Sophie-River-Thames .
