@@ -39,7 +39,7 @@ The Leeds Flood Alleviation Scheme was put into place to help avoid damage of th
 
 This shows that 8% of the FEV would be mitigated by the floodplain, with the remaining 92% by the city centre flood walls. It also shows the cost-effectiveness of the mitigation strategy - £0.75M per 1% of FEV mitigated, which includes £10M for the storage area, and £65M for the flood walls.
 
-### iii) River Calder, Mytholmroyd, Yorkshire
+### iii) The River Calder, Mytholmroyd, Yorkshire
 
 Lastly, we focused on the River Calder flood that took place on Boxing Day in 2015. The given data was from the Mytholmroyd station.
 
@@ -64,7 +64,7 @@ Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of th
 
 ## 9) Wharfe
 
-## 10) Thames, Berkshire
+## 10) River Thames, Berkshire
 
 Analysis of the River Thames 2013-2014 flood can be found in the following repository: https://github.com/Rivers-Project-2018/Sophie-River-Thames .
 
