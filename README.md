@@ -88,7 +88,7 @@ Currently there is a large flood alleviation programme taking place on the River
 
 ![Screen Shot 2019-03-04 at 15.13.52.png](https://github.com/Rivers-Project-2018/Jack-Willis/blob/master/Screen%20Shot%202019-03-04%20at%2015.13.52.png)
 
-*Data collected by the Leeds City Council (https://www.leeds.gov.uk/docs/Otley%20FAS%20Drop%20In%20Material%20-%2021%20June%202018.pdf)*
+*Data collected by the Leeds City Council (https://www.leeds.gov.uk/docs/Otley%20FAS%20Drop%20In%20Material%20-%2021%20June%202018.pdf).*
 
 
 ## 10) Thames, Berkshire
