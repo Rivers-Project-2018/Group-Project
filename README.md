@@ -1,7 +1,14 @@
 # Group Project
 This page summarises the work perfomed as a group and the indivuals.
 
-## 1) Introduction to project Antonia
+## 1) Introduction
+
+Climate change is increasing the frequency of extreme rainfall and flooding internationally. [1]
+
+In the north of the UK alone, 17,000 properties were affected by flooding in the winter 2015-2016. December 2015 has been reported as the wettest month ever recorded. In 2017, flooding was a natural hazard identified as a major threat to the UK on the UK’s Risk Register. [2,3]
+
+In the UK, cities and local councils are often responsible for designing flood management plans with the support of regional divisions of goverment organisations such as the Environmental Agency. Evidence based decision making is needed inorder to optimise the limited resources available to local authorities. 
+
 
 ## 2) Introduction to FEV Model Jack
 
@@ -39,7 +46,7 @@ The Leeds Flood Alleviation Scheme was put into place to help avoid damage of th
 
 This shows that 8% of the FEV would be mitigated by the floodplain, with the remaining 92% by the city centre flood walls. It also shows the cost-effectiveness of the mitigation strategy - £0.75M per 1% of FEV mitigated, which includes £10M for the storage area, and £65M for the flood walls.
 
-### iii) The River Calder, Mytholmroyd, Yorkshire
+### iii) River Calder, Mytholmroyd, Yorkshire
 
 Lastly, we focused on the River Calder flood that took place on Boxing Day in 2015. The given data was from the Mytholmroyd station.
 
@@ -49,9 +56,8 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
+   <figcaption>Figure 6: Flood-excess lake for Calder</figcaption>
 </p>
-
-The figure shown above details the different levels of flood mitigation provided by each mitigation project (RESERVIORS: using reservoirs as storage; NFM: leaky dams; TREES: planting trees). 
 
 ## 6) River Irwell, Greater Manchester
 Work on the River Irwell can be found at the following link: https://github.com/Rivers-Project-2018/River-Irwell-Mary-Saunders.
@@ -64,13 +70,18 @@ Indepnedent analysis of the River Avon, in Warwickshire (a major tributary of th
 
 ## 9) Wharfe
 
-## 10) River Thames, Berkshire
+## 10) Thames, Berkshire
 
 Analysis of the River Thames 2013-2014 flood can be found in the following repository: https://github.com/Rivers-Project-2018/Sophie-River-Thames .
 
 ## 11) Conclusion
 -Comparison of Rivers
 -Further work needed 
+
+## 12)References 
+1.European Academics Society Advisory Council.New data confirm increased frequency of extreme weather events, European national science academies urge further action on climate change adaptation.[Online].2018.[Accessed 4 March 2019]. Available from:https://easac.eu/press-releases/details/new-data-confirm-increased-frequency-of-extreme-weather-events-european-national-science-academies/ 
+2. Environmental Agency. Climate change means more frequent flooding, warns Environment Agency.[Online].2018.[Accessed 2 January 2019]. Available from: https://www.gov.uk/government/news/climate-change-means-more-frequent-flooding-warns-environment-agency
+3. UK Government. National Risk Register Of Civil Emergencies 2017 Edition. [Online].2017.[Accessed 2 January 2019]. Available from: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/644968/UK_National_Risk_Register_2017.pdf
 
 
 
