@@ -1,5 +1,5 @@
 # Group Project
-This page summarises the work perfomed as a group and the indivuals.
+This page summarises the work perfomed as a group and the individuals.
 
 ## 1) Introduction
 
@@ -8,7 +8,6 @@ Climate change is increasing the frequency of extreme rainfall and flooding inte
 In the north of the UK alone, 17,000 properties were affected by flooding in the winter 2015-2016. December 2015 has been reported as the wettest month ever recorded. In 2017, flooding was a natural hazard identified as a major threat to the UK on the UK’s Risk Register. [2,3]
 
 In the UK, cities and local councils are often responsible for designing flood management plans with the support of regional divisions of goverment organisations such as the Environmental Agency. Evidence based decision making is needed inorder to optimise the limited resources available to local authorities. 
-
 
 ## 2) Introduction to FEV Model Jack
 
