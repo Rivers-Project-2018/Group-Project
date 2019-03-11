@@ -76,7 +76,7 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
    <figcaption>Figure 7: Flood-excess lake for Calder, performed using R.</figcaption>
 </p>
 
-Figure 7 details the varying mitigation of each proposed project (tree planting, natural flood mitigation, and reservoirs).
+Figure 7 details the varying mitigation of each proposed project (reservoirs, natural flood mitigation, and tree planting). It also displays the cost-effectiveness of each project.
 
 
 ## 6) River Irwell, Greater Manchester
