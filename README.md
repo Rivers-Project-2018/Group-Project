@@ -29,7 +29,7 @@ Substantial flooding occured early in the month of July, 2007, in the West Yorks
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png">
-   <figcaption>Figure 1: Height levels for the River Don in the Sheffield Hadlands throughout the year 2007.</figcaption>
+   <figcaption>Figure 1: Height levels for the River Don in the Sheffield Hadlands throughout the year 2007. This graph was created using Python.</figcaption>
 </p>
  
 It is therefore clear that the July 2007 flooding event was a rare event. Indeed, a height greater than 2m was only achieved at one other point for the entire year, and even then the height only reached around 3m whilst the flooding event in July 2007 achieved a maximum height nearing 5m. This kind of flood is said to have a 1:200-year-return period; that is, a flood of this magnitude only occurs with 0.5% probability each year.
