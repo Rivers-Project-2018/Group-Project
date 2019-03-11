@@ -26,18 +26,20 @@ This is the formula that will be used to estimate FEV from the quadrant plots th
 ### i) The River Don, Sheffield
 
 Substantial flooding occured early in the month of July, 2007, in the West Yorkshire city of Sheffield. Below is a graph illustrating the behaviour of the River Dons height throughout the year 0f 2007, using height data gathered from the Sheffield Hadlands gauging station.
- 
-![Don-Long_Time_Graph.png](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png)
 
-*Height levels for the River Don in the Sheffield Hadlands throughout the year 2007.*
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png.png">
+   <figcaption>Figure 1: Height levels for the River Don in the Sheffield Hadlands throughout the year 2007.</figcaption>
+</p>
  
 It is therefore clear that the July 2007 flooding event was a rare event. Indeed, a height greater than 2m was only achieved at one other point for the entire year, and even then the height only reached around 3m whilst the flooding event in July 2007 achieved a maximum height nearing 5m. This kind of flood is said to have a 1:200-year-return period; that is, a flood of this magnitude only occurs with 0.5% probability each year.
 
 In order to calculate the volume of water discharged during the flooding event (the FEV), the plotting of the below quadrant graph is necessary. The threshold height of 2.9m is chosen. This is because, whilst https://www.gaugemap.co.uk/ states that flooding is possible from 2.63m upwards, the supervisors of this project have had prior experience with the River Aire and Calder suggesting that this level is too low. Hence the threshold height is estimated to be 2.9m.
  
-![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
-
-*Quadrant plot analysing the July 2007 flooding event in Sheffield. This graph was created using Python.*
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png">
+   <figcaption>Figure 2: Quadrant plot analysing the July 2007 flooding event in Sheffield. This graph was created using Python.</figcaption>
+</p>
 
 Because of the severity of this flood, the Sheffield City Council have investigated the implementation of various flood mitigation measures, with an emphasis on Natural Flood Mitigation measures, in particular flow attenuation features such as leaky dams. They are also looking into the possibility of drawing down various drinking water reservoirs that are already built along the River Don with the aim of increasing their floodwater storage potential. Further information on the study performed by the Sheffield City Council can be found in www.floodprotectionsheffield.com.
 
@@ -70,7 +72,7 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Calder-Quadrant_Graph.png">
-   <figcaption>Figure 6: Flood-excess lake for Calder performed using Python</figcaption>
+   <figcaption>Figure 7: Flood-excess lake for Calder performed using Python</figcaption>
 </p>
 
 
