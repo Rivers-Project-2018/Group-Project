@@ -28,7 +28,7 @@ This is the formula that will be used to estimate FEV from the quadrant plots th
 Substantial flooding occured early in the month of July, 2007, in the West Yorkshire city of Sheffield. Below is a graph illustrating the behaviour of the River Dons height throughout the year 0f 2007, using height data gathered from the Sheffield Hadlands gauging station.
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png">
+  <img width="900" height="300" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Long_Time_Graph.png">
    <figcaption>Figure 1: Height levels for the River Don in the Sheffield Hadlands throughout the year 2007. This graph was created using Python.</figcaption>
 </p>
  
