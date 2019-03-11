@@ -76,7 +76,7 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
    <figcaption>Figure 7: Flood-excess lake for Calder, performed using R.</figcaption>
 </p>
 
-Figure 7 details the varying mitigation of each proposed project (reservoirs, natural flood mitigation, and tree planting). It also displays the cost-effectiveness of each project.
+Figure 7 details the varying mitigation of each project (reservoirs, natural flood mitigation, and tree planting). The varying levels of mitigation are due to the hypothetically nature of each project. It also displays the cost-effectiveness of each project - given by value in the figure. Due to the varying mitigation levels the cost-effectiveness also varies.
 
 
 ## 6) River Irwell, Greater Manchester
