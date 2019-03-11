@@ -37,7 +37,7 @@ In order to calculate the volume of water discharged during the flooding event (
  
 ![Don-Quadrant_Graph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png)
 
-*Quadrant plot analysing the July 2007 flooding event in Sheffield*
+*Quadrant plot analysing the July 2007 flooding event in Sheffield. This graph was created using Python.*
 
 Because of the severity of this flood, the Sheffield City Council have investigated the implementation of various flood mitigation measures, with an emphasis on Natural Flood Mitigation measures, in particular flow attenuation features such as leaky dams. They are also looking into the possibility of drawing down various drinking water reservoirs that are already built along the River Don with the aim of increasing their floodwater storage potential. Further information on the study performed by the Sheffield City Council can be found in www.floodprotectionsheffield.com.
 
@@ -65,8 +65,14 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
-   <figcaption>Figure 6: Flood-excess lake for Calder</figcaption>
+   <figcaption>Figure 6: Flood-excess lake for Calder, performed using R.</figcaption>
 </p>
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Calder-Quadrant_Graph.png">
+   <figcaption>Figure 6: Flood-excess lake for Calder performed using Python</figcaption>
+</p>
+
 
 ## 6) River Irwell, Greater Manchester
 Work on the River Irwell can be found at the following link: https://github.com/Rivers-Project-2018/River-Irwell-Mary-Saunders.
