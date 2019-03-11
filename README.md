@@ -63,17 +63,20 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/SophiesCalderRecreation.png">
-</p>
-
-<p align="center">
-  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
-   <figcaption>Figure 6: Flood-excess lake for Calder, performed using R.</figcaption>
+  <figcaption>Figure 5: River Calder Quadrant plot, performed using R.</figcaption>
 </p>
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Calder-Quadrant_Graph.png">
-   <figcaption>Figure 7: Flood-excess lake for Calder performed using Python</figcaption>
+   <figcaption>Figure 6: River Calder Quadrant plot, performed using Python</figcaption>
 </p>
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
+   <figcaption>Figure 7: Flood-excess lake for Calder, performed using R.</figcaption>
+</p>
+
+Figure 6 details the varying mitigation of each proposed project (tree planting, dams, and ).
 
 
 ## 6) River Irwell, Greater Manchester
