@@ -37,7 +37,7 @@ It is therefore clear that the July 2007 flooding event was a rare event. Indeed
 In order to calculate the volume of water discharged during the flooding event (the FEV), the plotting of the below quadrant graph is necessary. The threshold height of 2.9m is chosen. This is because, whilst https://www.gaugemap.co.uk/ states that flooding is possible from 2.63m upwards, the supervisors of this project have had prior experience with the River Aire and Calder suggesting that this level is too low. Hence the threshold height is estimated to be 2.9m.
  
 <p align="center">
-  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png">
+  <img width=600" height="400" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Don-Quadrant_Graph.png">
    <figcaption>Figure 2: Quadrant plot analysing the July 2007 flooding event in Sheffield. This graph was created using Python.</figcaption>
 </p>
 
