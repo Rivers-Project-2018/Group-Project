@@ -57,6 +57,8 @@ The Leeds Flood Alleviation Scheme was put into place to help avoid damage of th
 
 This shows that 8% of the FEV would be mitigated by the floodplain, with the remaining 92% by the city centre flood walls. It also shows the cost-effectiveness of the mitigation strategy - £0.75M per 1% of FEV mitigated, which includes £10M for the storage area, and £65M for the flood walls.
 
+Further information on the Leeds Flood Alleviation Scheme can be found at https://www.leeds.gov.uk/parking-roads-and-travel/flood-alleviation-scheme.
+
 ### iii) River Calder, Mytholmroyd, Yorkshire
 
 Lastly, we focused on the River Calder flood that took place on Boxing Day in 2015. The given data was from the Mytholmroyd station.
