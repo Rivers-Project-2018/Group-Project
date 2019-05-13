@@ -21,7 +21,7 @@ To analyze this data, a rating curve is created by the Environmental Agency to e
 
 The formula that will be used to estimate FEV from the quadrant plots that have been created for each river is
 <p align="center">
-  <img width="450" height="200" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/fullsizeoutput_a5e.jpeg">
+  <img width="650" height="100" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/fullsizeoutput_a5e.jpeg">
 </p>
 
 
