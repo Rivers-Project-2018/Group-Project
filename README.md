@@ -120,12 +120,11 @@ Analysis of the River Thames 2013-2014 flood can be found in the following repos
 
 ## 12)References 
 
-1.European Academics Society Advisory Council.New data confirm increased frequency of extreme weather events, European national science academies urge further action on climate change adaptation.[Online].2018.[Accessed 4 March 2019]. Available from:https://easac.eu/press-releases/details/new-data-confirm-increased-frequency-of-extreme-weather-events-european-national-science-academies/ 
+1. European Academics Society Advisory Council.New data confirm increased frequency of extreme weather events, European national science academies urge further action on climate change adaptation.[Online].2018.[Accessed 4 March 2019]. Available from:https://easac.eu/press-releases/details/new-data-confirm-increased-frequency-of-extreme-weather-events-european-national-science-academies/ 
 
 2. Environmental Agency. Climate change means more frequent flooding, warns Environment Agency.[Online].2018.[Accessed 2 January 2019]. Available from: https://www.gov.uk/government/news/climate-change-means-more-frequent-flooding-warns-environment-agency
 
 3. UK Government. National Risk Register Of Civil Emergencies 2017 Edition. [Online].2017.[Accessed 2 January 2019]. Available from: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/644968/UK_National_Risk_Register_2017.pdf
-
 
 
 
