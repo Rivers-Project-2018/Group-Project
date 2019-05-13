@@ -21,7 +21,7 @@ To analyze this data, a rating curve is created by the Environmental Agency to e
 
 The formula that will be used to estimate FEV from the quadrant plots that have been created for each river is
 <p align="center">
-  <img width="450" height="40" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/fullsizeoutput_a5e.jpeg">.
+  <img width="450" height="40" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/fullsizeoutput_a5e.jpeg"> [1].
 </p>
 
 
@@ -67,24 +67,24 @@ Further information on the Leeds Flood Alleviation Scheme can be found at https:
 
 ### iii) River Calder, Mytholmroyd, Yorkshire
 
-Lastly, we focused on the River Calder flood that took place on Boxing Day in 2015. The given data was from the Mytholmroyd station.
+Lastly, we focused on the River Calder flood located at Mytholmroyd that took place on Boxing Day in 2015 [1]. 
 
 <p align="center">
   <img width="600" height="600" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/SophieCalderRecreation.png">
-  <figcaption>Figure 5: River Calder Quadrant plot, performed using R.</figcaption>
+  <figcaption>Figure 5: River Calder Quadrant plot, performed using R [1].</figcaption>
 </p>
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Calder-Quadrant_Graph.png">
-   <figcaption>Figure 6: River Calder Quadrant plot, performed using Python</figcaption>
+   <figcaption>Figure 6: River Calder Quadrant plot, performed using Python [1].</figcaption>
 </p>
 
 <p align="center">
   <img width="600" height="600" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
-   <figcaption>Figure 7: Flood-excess lake for Calder, performed using R.</figcaption>
+   <figcaption>Figure 7: Flood-excess lake for Calder, performed using R [2].</figcaption>
 </p>
 
-Figure 7 details the varying mitigation of each project (reservoirs, natural flood mitigation, and tree planting). The varying levels of mitigation are due to the hypothetical nature of each project. It also displays the cost-effectiveness of each project - given by value in the figure. Due to the varying mitigation levels the cost-effectiveness also varies.
+Figure 7 details the varying mitigation of each project (reservoirs, natural flood mitigation, and tree planting); it also displays the cost-effectiveness of each project - given by value in the figure [2]. 
 
 
 ## 6) River Irwell, Greater Manchester
@@ -118,7 +118,9 @@ Analysis of the River Thames 2013-2014 flood can be found in the following repos
 -Comparison of Rivers
 -Further work needed 
 
-## 12)References 
+## 12) References 
+
+### 12.1: Introduction
 
 1. European Academics Society Advisory Council.New data confirm increased frequency of extreme weather events, European national science academies urge further action on climate change adaptation.[Online].2018.[Accessed 4 March 2019]. Available from:https://easac.eu/press-releases/details/new-data-confirm-increased-frequency-of-extreme-weather-events-european-national-science-academies/ 
 
@@ -126,6 +128,16 @@ Analysis of the River Thames 2013-2014 flood can be found in the following repos
 
 3. UK Government. National Risk Register Of Civil Emergencies 2017 Edition. [Online].2017.[Accessed 2 January 2019]. Available from: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/644968/UK_National_Risk_Register_2017.pdf
 
+### 12.2: Introduction to FEV
 
+1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
+### 12.3.1: River Don
 
+### 12.3.2: River Aire
+
+### 12.3.3: River Calder
+
+1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
+
+2. Bokhove, O., Kelmanson, M.A., and Kent, T. *Using 'flood-excess volume' to assess and communicate flood-mitigation schemes*. Leeds-Kyoto Symposium, Leeds: Weetwood Hall, 17-19 September 2018.
