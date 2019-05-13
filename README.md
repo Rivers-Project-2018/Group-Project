@@ -66,7 +66,7 @@ Further information on the Leeds Flood Alleviation Scheme can be found at https:
 Lastly, we focused on the River Calder flood that took place on Boxing Day in 2015. The given data was from the Mytholmroyd station.
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/SophieCalderRecreation.png">
+  <img width="600" height="600" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/SophieCalderRecreation.png">
   <figcaption>Figure 5: River Calder Quadrant plot, performed using R.</figcaption>
 </p>
 
@@ -76,7 +76,7 @@ Lastly, we focused on the River Calder flood that took place on Boxing Day in 20
 </p>
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
+  <img width="600" height="600" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/Sophies_FEV_mitigation_plot_recreation_for_Calder.png">
    <figcaption>Figure 7: Flood-excess lake for Calder, performed using R.</figcaption>
 </p>
 
