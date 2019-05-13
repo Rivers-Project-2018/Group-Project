@@ -21,6 +21,8 @@ To analyze this data, a rating curve is created by the Environmental Agency to e
 
 This is the formula that will be used to estimate FEV from the quadrant plots that have been created for each river.
 
+Learn how to compute FEV: https://github.com/Rivers-Project-2018/How-to-do-FEV-Analysis.
+
 ## 3) Familarisation with FEV Model
 
 ### i) The River Don, Sheffield
