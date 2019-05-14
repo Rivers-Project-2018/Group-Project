@@ -134,6 +134,10 @@ Analysis of the River Thames 2013-2014 flood can be found in the following repos
 
 ### 12.3.1: River Don
 
+1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
+
+2. Bokhove, O., Kelmanson, M.A., and Kent, T. *Using 'flood-excess volume' to assess and communicate flood-mitigation schemes*. Leeds-Kyoto Symposium, Leeds: Weetwood Hall, 17-19 September 2018.
+
 ### 12.3.2: River Aire
 
 1. Bokhove, O., Kent, T. and M Kelmanson. On using flood-excess volume in flood mitigation, exemplified for the River Aire Boxing Day Flood of 2015. [Online]. 2018. [Accessed 19th March 2019]. Available from: https://eartharxiv.org/stc7r/.
