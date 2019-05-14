@@ -51,13 +51,13 @@ Because of the severity of this flood, the Sheffield City Council have investiga
 
 ### ii) River Aire, Leeds
 
-One of the floods we looked at was the Boxing Day flood of the River Aire in Leeds in 2015, using data taken from the monitoring station at Armely by the Environment Agency. Taking a threshold height of 3.9m above which flooding occured, we were able to produce the following quadrant plot using Python or R. This threshold height was estimated by Professor Bokhove by looking at photographs of the local area, along with their timestamps.
+One of the floods we looked at was the Boxing Day flood of the River Aire in Leeds in 2015, using data taken from the monitoring station at Armely by the Environment Agency. Taking a threshold height of 3.9m above which flooding occured, we were able to produce the following quadrant plot using Python or R. This threshold height was estimated in [1] by looking at photographs of the local area, along with their timestamps.
 
 ![airepythongraph](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airepythongraph.png)
 
 The lower left quadrant the relationship between the river height and time, the upper right quadrant shows time against flow, and the upper left quadrant contains a rating curve with a linear approximation. The dashed lines indicate a threshold height *h<sub>T</sub>* and the mean height of the flood *h<sub>m</sub>*, and their respective flow rates *Q<sub>m</sub>* and *Q<sub>T</sub>*. Using these values we were able to calculate the FEV as 9.34 Mm<sup>3</sup>, with *T<sub>f</sub>* (the duration of the flood) being 32 hours.
 
-The Leeds Flood Alleviation Scheme was put into place to help avoid damage of this extent happening again. One scenario from Phase II of the scheme involves building flood walls of a height of varying heights in the city centre. This would help prevent flooding here, however could cause flooding downstream. Therefore a floodplain further upstream would help to counteract this. A graphical representation of the flood walls and the Calverley flood plain is as follows:
+The Leeds Flood Alleviation Scheme [2] was put into place to help avoid damage of this extent happening again. One scenario from Phase II of the scheme involves building flood walls of a height of varying heights in the city centre. This would help prevent flooding here, however could cause flooding downstream. Therefore a floodplain further upstream would help to counteract this. A graphical representation of the flood walls and the Calverley flood plain is as follows:
 
 ![airesquarelake1](https://github.com/Rivers-Project-2018/Group-Project/blob/master/airesquarelake1.png)
 
@@ -135,6 +135,10 @@ Analysis of the River Thames 2013-2014 flood can be found in the following repos
 ### 12.3.1: River Don
 
 ### 12.3.2: River Aire
+
+1. Bokhove, O., Kent, T. and M Kelmanson. On using flood-excess volume in flood mitigation, exemplified for the River Aire Boxing Day Flood of 2015. [Online]. 2018. [Accessed 19th March 2019]. Available from: https://eartharxiv.org/stc7r/.
+
+2. Leeds City Council. Leeds Flood Alleviation Scheme. [Online]. [Accesed 11th December 2018]. Available from: https://www.leeds.gov.uk/parking-roads-and-travel/flood-alleviation-scheme.
 
 ### 12.3.3: River Calder
 
