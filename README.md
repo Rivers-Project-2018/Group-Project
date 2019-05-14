@@ -17,11 +17,11 @@ To calculate the FEV of a flood, first data must be collected and analyzed from 
 
 To analyze this data, a rating curve is created by the Environmental Agency to estimate the flow of water m<sup>3</sup>/s at the river’s given level and time. The frequent measurements taken at the gauge station can then be plotted onto a graph using the rating equation Q=Q(h), where Q is the flow of water m<sup>3</sup>/s. We can then apply *h<sub>T</sub>* into the rating curve to give the threshold flow *q<sub>T</sub>*=Q(*h<sub>T</sub>*). FEV, or Ve can then be defined as the integral of Q(t)-*q<sub>T</sub>* over time *T<sub>f</sub>*, where *T<sub>f</sub>* is where Q(t)-*q<sub>T</sub>*>0. Ve is measured in m<sup>3</sup>. This gives a volume of water in which the river has flooded by. A way to estimate this value is to evaluate *h<sub>M</sub>*, the mean level of the river given the level is above *h<sub>T</sub>*. Again, this value can be applied into the rating equation to give a flow value *q<sub>M</sub>*. Thus, one approximation is
 
-![Screen Shot 2019-03-04 at 14.38.53.png](https://github.com/Rivers-Project-2018/Jack-Willis/blob/master/Screen%20Shot%202019-03-04%20at%2014.38.53.png).
+![Screen Shot 2019-03-04 at 14.38.53.png](https://github.com/Rivers-Project-2018/Jack-Willis/blob/master/Screen%20Shot%202019-03-04%20at%2014.38.53.png) [1, p.5].
 
 The formula that will be used to estimate FEV from the quadrant plots that have been created for each river is
 <p align="center">
-  <img width="450" height="40" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/fullsizeoutput_a5e.jpeg"> [1].
+  <img width="450" height="40" src="https://github.com/Rivers-Project-2018/Group-Project/blob/master/fullsizeoutput_a5e.jpeg"> [2].
 </p>
 
 
@@ -130,7 +130,9 @@ Analysis of the River Thames 2013-2014 flood can be found in the following repos
 
 ### 12.2: Introduction to FEV
 
-1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
+1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. [Pre- print]. Communicating nature-based solutions using flood-excess volume, for three extreme UK and French river floods. *The Royal Society Publishing*. 2018.
+
+2. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
 ### 12.3.1: River Don
 
